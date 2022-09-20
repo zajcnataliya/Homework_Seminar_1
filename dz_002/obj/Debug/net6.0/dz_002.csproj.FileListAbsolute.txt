@@ -1,0 +1,15 @@
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\bin\Debug\net6.0\dz_002.exe
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\bin\Debug\net6.0\dz_002.deps.json
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\bin\Debug\net6.0\dz_002.runtimeconfig.json
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\bin\Debug\net6.0\dz_002.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\bin\Debug\net6.0\dz_002.pdb
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.csproj.AssemblyReference.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.AssemblyInfoInputs.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.AssemblyInfo.cs
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.csproj.CoreCompileInputs.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\refint\dz_002.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.pdb
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\dz_002.genruntimeconfig.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Homework_Seminar_1\dz_002\obj\Debug\net6.0\ref\dz_002.dll

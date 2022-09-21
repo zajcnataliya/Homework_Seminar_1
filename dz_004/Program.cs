@@ -7,7 +7,7 @@
 Console.Clear();
 
 Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int number = int.Parse(Console.ReadLine());
 int counter = 2;
 while (counter <= number)
 {

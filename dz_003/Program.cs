@@ -8,13 +8,13 @@
 Console.Clear();
 
 Console.WriteLine ("Введите число: ");
-int a = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 
-if (a % 2 == 0)
+if (number % 2 == 0)
 {
-    Console.WriteLine("Четное число");
+    Console.WriteLine($"{number} четное число");
 }
 else
 {
-    Console.WriteLine("Нечетное число");
+    Console.WriteLine($"{number} нечетное число");
 }

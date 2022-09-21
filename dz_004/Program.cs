@@ -4,7 +4,7 @@
 // 8 -> 2, 4, 6, 8
 // задача на цикл
 
-
+Console.Clear();
 
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
